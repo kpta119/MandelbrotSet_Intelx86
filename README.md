@@ -1,7 +1,7 @@
 In order to run this program, you need to have installed:
-`gcc` - C compiler
-`allegro` - image library
-`cmake` - compilation tool
+-`gcc` - C compiler
+-`allegro` - image library
+-`cmake` - compilation tool
 
 - First you need clone this repository using:
 ```bash
@@ -15,7 +15,7 @@ cd build
 cmake ..
 make
 ```
--and to run teh program:
+-and to run the program:
 ```bash
 ./mandelbrot
 ```
