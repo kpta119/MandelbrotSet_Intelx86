@@ -1,3 +1,6 @@
+# Mandelbrot Set visualization using x86-64 assembly language
+This project is a graphical application that visualizes the Mandelbrot set using the Allegro 5 library. The application allows users to interactively explore the Mandelbrot set by zooming and panning through the fractal.
+
 In order to run this program, you need to have installed:
 - `gcc` - C compiler
 - `allegro` - image library
